@@ -73,7 +73,7 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 ### Commit changes for conflict checking
 
 * Mason Sanders
-* Prasanth Chimakurthy
+* Prasanth C
 
 ## Change Log
 
