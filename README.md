@@ -23,7 +23,7 @@ Java
 C#
 --
 
-* [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz1/Program.cs)
+* [Sample 1 - Richard](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz1/Program.cs)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz2/Program.cs)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz3/Program.cs)
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz4/Program.cs)
