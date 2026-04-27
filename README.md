@@ -70,6 +70,9 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 
 Richard hood
 
+
+
+
 ### Commit changes for conflict checking
 
 * Mason Sanders
@@ -78,5 +81,6 @@ Richard hood
 
 Jim H. 20260427 1214
 
+Jim H. 20260427 1214
 Sheryl J. 20260427 1230
 
