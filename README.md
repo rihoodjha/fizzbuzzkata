@@ -78,6 +78,7 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 * santoshi
 * Bridgette Durbin is so cool!
 * I added my change - Muqeet
+* Changed to add name Nic James
 
 ## Change Log
 
