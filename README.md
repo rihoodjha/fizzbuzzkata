@@ -1,17 +1,15 @@
-Sample Fizzbuzz implementations
-===============================
+# Sample Fizzbuzz implementations
 
 Some sample solutions to Fizzbuzz, to provoke discussion.
 
 Distribute the code to people and ask them to discuss in pairs the following questions:
 
-- If you were to implement the FizzBuzz kata, which of these implementations would your code end up most similar to?
-- If you were to implement the FizzBuzz kata **using Test-Driven Development**, which of these implementations would your code end up most similar to?
+* If you were to implement the FizzBuzz kata, which of these implementations would your code end up most similar to?
+* If you were to implement the FizzBuzz kata **using Test-Driven Development**, which of these implementations would your code end up most similar to?
 
 After 10 minutes or so of discussion, ask each pair to report their chosen implementations. If they answer the two questions differently, ask them to explain why.
 
-Java
-----
+## Java
 
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz1.java)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz2.java)
@@ -20,8 +18,7 @@ Java
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz5.java)
 * [Sample 6](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz6.java)
 
-C#
---
+## C#
 
 * [Sample 1 - Richard](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz1/Program.cs)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz2/Program.cs)
@@ -30,8 +27,7 @@ C#
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz5/Program.cs)
 * [Sample 6](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz6/Program.cs)
 
-Python
-------
+## Python
 
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/python/fizzbuzz1.py)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/python/fizzbuzz2.py)
@@ -40,8 +36,7 @@ Python
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/python/fizzbuzz5.py)
 * [Sample 6](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/python/fizzbuzz6.py)
 
-C++
----
+## C++
 
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/cpp/src/FizzBuzz1.cpp)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/cpp/src/FizzBuzz2.cpp)
@@ -49,8 +44,7 @@ C++
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/cpp/src/FizzBuzz4.cpp)
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/cpp/src/FizzBuzz5.cpp)
 
-Kotlin
-------
+## Kotlin
 
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/kotlin/src/main/kotlin/codingdojo/Fizzbuzz1.kt)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/kotlin/src/main/kotlin/codingdojo/Fizzbuzz2.kt)
@@ -59,16 +53,14 @@ Kotlin
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/kotlin/src/main/kotlin/codingdojo/Fizzbuzz5.kt)
 * [Sample 6](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/kotlin/src/main/kotlin/codingdojo/Fizzbuzz6.kt)
 
-C
--
+## C
 
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/c/fizzbuzz1.h)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/c/fizzbuzz2.h)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/c/fizzbuzz3.h)
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/c/fizzbuzz4.h)
 
-Go
---
+## Go
 
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample1.go)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample2.go)
@@ -79,11 +71,16 @@ Go
 
 
 
+
 ### Commit changes for conflict checking
- - Mason Sanders
- - santoshi
- - Bridgette Durbin is so cool!
+
+* Mason Sanders
+* santoshi
+* Bridgette Durbin is so cool!
+* I added my change - Muqeet
 
 ## Change Log
+
 Jim H. 20260427 1214
 Sheryl J. 20260427 1230
+
