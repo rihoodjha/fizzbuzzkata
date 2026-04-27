@@ -76,6 +76,8 @@ Go
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample4.go)
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
 
+Bridgette Durbin is so cool!
+
 
 ### Commit changes for conflict checking
  - Mason Sanders
