@@ -76,20 +76,14 @@ Go
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample4.go)
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
 
-Bridgette Durbin is so cool!
+
 
 
 ### Commit changes for conflict checking
  - Mason Sanders
-<<<<<<< HEAD
  - santoshi
-=======
+ - Bridgette Durbin is so cool!
 
 ## Change Log
 Jim H. 20260427 1214
-<<<<<<< HEAD
->>>>>>> 892d36e6abb8c2b4f470e7777ecb28fd9c3b97b4
-=======
-
 Sheryl J. 20260427 1230
->>>>>>> c49ed0bb3d88576fcb30e053b8fb1d55fc2fc05e
