@@ -10,6 +10,8 @@ Distribute the code to people and ask them to discuss in pairs the following que
 
 After 10 minutes or so of discussion, ask each pair to report their chosen implementations. If they answer the two questions differently, ask them to explain why.
 
+Many samples:
+
 Java
 ----
 
