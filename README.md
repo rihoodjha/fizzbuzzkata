@@ -68,22 +68,18 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample4.go)
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
 
+Richard hood
 
 
 
 
 ### Commit changes for conflict checking
- - Mason Sanders
- - Andrew Bakanowicz Hello World foo
-
 
 * Mason Sanders
-* santoshi
-* Bridgette Durbin is so cool!
-* I added my change - Muqeet
-* Changed to add name Nic James
 
 ## Change Log
+
+Jim H. 20260427 1214
 
 Jim H. 20260427 1214
 Sheryl J. 20260427 1230
