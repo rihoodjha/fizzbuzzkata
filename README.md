@@ -64,6 +64,8 @@ C# is the best! -Romeo
 
 ## Go
 
+This language is FAST. I'd love to learn it!
+
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample1.go)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample2.go)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample3.go)
