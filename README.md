@@ -77,6 +77,8 @@ Richard hood
 
 ### Commit changes for conflict checking
 
+* Dave Hagemann
+
 * Mason Sanders
 HEAD
 * Prasanth C
