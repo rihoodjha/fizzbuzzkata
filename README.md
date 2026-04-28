@@ -77,8 +77,14 @@ This language is FAST. I'd love to learn it!
 * [Sample 5 - Prasanth](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
 
 
+Richard hood  I made this change for demo
+=======
+
 Richard hood
 
+
+Richard hood
+Jeevanand change added
 
 
 
@@ -88,8 +94,13 @@ Richard hood
 * Dave Hagemann
 
 * Mason Sanders
+
+*Prasad 
+HEAD
 * Prasanth C
 
+
+* Kiran Vasu
 
 ## Change Log
 
@@ -102,9 +113,12 @@ Priya
 
 
 
+
 * Dave Hagemann's 2nd change
 9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
 
+
+* Deepak Haldar Readme changes
 
 
 Romeo was here!!
@@ -116,3 +130,5 @@ Michael P
 Jenn Was here
 JAD Second Change
 JAD third change 
+
+* Dave Hagemann's 3rd change
