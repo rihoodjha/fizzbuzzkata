@@ -20,6 +20,8 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 
 ## C#
 
+C# is the best! -Romeo
+
 * [Sample 1 - Richard](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz1/Program.cs)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz2/Program.cs)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz3/Program.cs)
@@ -62,6 +64,8 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 
 ## Go
 
+This language is FAST. I'd love to learn it!
+
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample1.go)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample2.go)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample3.go)
@@ -74,26 +78,32 @@ Richard hood
 
 
 
+
 ### Commit changes for conflict checking
 
+* Dave Hagemann
+
 * Mason Sanders
-HEAD
 * Prasanth C
 
-9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
 
 ## Change Log
 
 Jim H. 20260427 1214
-
-HEAD
 
 Jim H. 20260427 1214
 Sheryl J. 20260427 1230
 
 Priya
 
+
+
+* Dave Hagemann's 2nd change
 9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
+
+
+
+Romeo was here!!
 
 
 Michael P
