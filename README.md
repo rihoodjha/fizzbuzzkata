@@ -80,20 +80,15 @@ Richard hood  I made this change for demo
 * Dave Hagemann
 
 * Mason Sanders
-HEAD
 * Prasanth C
 
-9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
 
 ## Change Log
 
 Jim H. 20260427 1214
-
-HEAD
 
 Jim H. 20260427 1214
 Sheryl J. 20260427 1230
 
 Priya
 
-9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
