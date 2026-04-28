@@ -116,20 +116,3 @@ Priya
 
 * Dave Hagemann's 2nd change
 9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
-
-
-* Deepak Haldar Readme changes
-
-
-Romeo was here!!
-
-
-Michael P
-
-
-Jenn Was here
-JAD Second Change
-JAD third change 
-JAD Test Hi Swaroopa!
-
-* Dave Hagemann's 3rd change
