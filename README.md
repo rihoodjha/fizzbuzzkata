@@ -70,6 +70,10 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 
 
 Richard hood  I made this change for demo
+=======
+
+Richard hood
+
 
 
 
@@ -83,6 +87,8 @@ Richard hood  I made this change for demo
 * Prasanth C
 
 
+* Kiran Vasu
+
 ## Change Log
 
 Jim H. 20260427 1214
@@ -94,4 +100,9 @@ Priya
 
 
 
+
 * Dave Hagemann's 2nd change
+=======
+9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
+
+
