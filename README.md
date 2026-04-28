@@ -20,6 +20,8 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 
 ## C#
 
+C# is the best! -Romeo
+
 * [Sample 1 - Richard](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz1/Program.cs)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz2/Program.cs)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/csharp/FizzBuzz/FizzBuzz3/Program.cs)
