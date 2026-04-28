@@ -70,7 +70,8 @@ Anjali
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample2.go)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample3.go)
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample4.go)
-* [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
+* [Sample 5 - Prasanth](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
+
 
 Richard hood
 
@@ -81,13 +82,20 @@ Richard hood
 ### Commit changes for conflict checking
 
 * Mason Sanders
+HEAD
+* Prasanth C
+
+9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
 
 ## Change Log
 
 Jim H. 20260427 1214
+
+HEAD
 
 Jim H. 20260427 1214
 Sheryl J. 20260427 1230
 
 Priya
 
+9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
