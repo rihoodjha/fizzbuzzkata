@@ -69,7 +69,7 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 * [Sample 5 - Prasanth](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
 
 
-Richard hood
+Richard hood  I made this change for demo
 
 
 
