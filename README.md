@@ -40,6 +40,7 @@ Anjali
 * [Sample 6](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/python/fizzbuzz6.py)
 
 ## C++
+Anjali
 
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/cpp/src/FizzBuzz1.cpp)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/cpp/src/FizzBuzz2.cpp)
