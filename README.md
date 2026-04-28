@@ -69,13 +69,29 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 * [Sample 5 - Prasanth](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
 
 
+Richard hood
+
+
+
+
 
 ### Commit changes for conflict checking
 
 * Mason Sanders
+HEAD
 * Prasanth C
+
+9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
 
 ## Change Log
 
 Jim H. 20260427 1214
 
+HEAD
+
+Jim H. 20260427 1214
+Sheryl J. 20260427 1230
+
+Priya
+
+9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
