@@ -14,6 +14,7 @@ After 10 minutes or so of discussion, ask each pair to report their chosen imple
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz1.java)
 
 Anjali
+
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz2.java)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz3.java)
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz4.java)
@@ -42,6 +43,7 @@ C# is the best! -Romeo
 * [Sample 6](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/python/fizzbuzz6.py)
 
 ## C++
+
 Anjali
 
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/cpp/src/FizzBuzz1.cpp)
@@ -77,8 +79,11 @@ This language is FAST. I'd love to learn it!
 * [Sample 5 - Prasanth](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
 
 
+<<<<<<< HEAD
 Richard hood  I made this change for demo
 =======
+=======
+>>>>>>> sudyavar
 
 Richard hood
 
@@ -116,3 +121,24 @@ Priya
 
 * Dave Hagemann's 2nd change
 9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
+<<<<<<<<< Temporary merge branch 1
+Anjali
+=========
+
+
+* Deepak Haldar Readme changes
+
+
+Romeo was here!!
+
+
+Michael P
+
+
+Jenn Was here
+JAD Second Change
+JAD third change 
+JAD Test Hi Swaroopa!
+
+* Dave Hagemann's 3rd change
+>>>>>>>>> Temporary merge branch 2
