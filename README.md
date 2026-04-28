@@ -73,7 +73,7 @@ This language is FAST. I'd love to learn it!
 * [Sample 5 - Prasanth](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
 
 
-Richard hood  I made this change for demo
+Richard hood
 
 
 
@@ -105,3 +105,6 @@ Priya
 
 
 Romeo was here!!
+
+
+Michael P
