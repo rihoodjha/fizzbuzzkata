@@ -16,7 +16,7 @@ public class FizzBuzzTests
         FizzBuzz1.Program.Main();
         sw.Flush();
         var allWrittenLines = sw.ToString();
-        Assert.Equal(string.Join("\n", FIZZBUZZES_1_TO_100) + "\n", allWrittenLines);
+        Assert.Equal(string.Join(Environment.NewLine, FIZZBUZZES_1_TO_100) + Environment.NewLine, allWrittenLines);
     }
     
     [Fact]
