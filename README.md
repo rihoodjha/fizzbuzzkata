@@ -70,8 +70,69 @@ C
 Go
 --
 
+This language is FAST. I'd love to learn it!
+
 * [Sample 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample1.go)
 * [Sample 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample2.go)
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample3.go)
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample4.go)
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
+* [Sample 5 - Prasanth](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
+
+
+Richard hood  I made this change for demo
+
+Richard hood
+
+
+Richard hood
+Jeevanand change added
+
+
+
+
+### Commit changes for conflict checking
+
+* Dave Hagemann
+
+* Mason Sanders
+
+*Prasad 
+HEAD
+* Prasanth C
+
+
+* Kiran Vasu
+
+## Change Log
+
+Jim H. 20260427 1214
+
+Jim H. 20260427 1214
+Sheryl J. 20260427 1230
+
+Priya
+
+
+
+
+* Dave Hagemann's 2nd change
+9543f78f08ffc16d80d8e5e86d6e1e0289532ce4
+
+
+* Deepak Haldar Readme changes
+
+
+Romeo was here!!
+
+
+Michael P
+
+
+Jenn Was here
+JAD Second Change
+JAD third change 
+JAD Test Hi Swaroopa!
+
+* Dave Hagemann's 3rd change
+
