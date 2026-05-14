@@ -75,3 +75,5 @@ Go
 * [Sample 3](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample3.go)
 * [Sample 4](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample4.go)
 * [Sample 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/go/fizzbuzz/sample5.go)
+
+Bridgette is making a change here
